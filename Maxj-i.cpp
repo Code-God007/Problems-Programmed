@@ -14,16 +14,6 @@ int main()
     int n, min, max;
     cout << "Enter Size of array : ";
     cin >> n;
-    // pair<int, int> A[n] = {};
-    // for (int i = 0; i < n; i++)
-    // {
-    //     A[i].first = i;
-    //     cin >> A[i].second;
-    // }
-    // for (int i = 0; i < n; i++)
-    // {
-    //     cout << A[i].first << " " << A[i].second << "\n";
-    // }
     int a[n], I[n];
     for (int i = 0; i < n; i++)
     {
